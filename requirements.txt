@@ -4,6 +4,7 @@ chromedriver==2.24.1
 colorama==0.4.3
 configparser==5.0.0
 crayons==0.3.1
+decorator==4.4.2
 EasyProcess==0.3
 entrypoint2==0.2.1
 idna==2.10
@@ -16,4 +17,5 @@ requests==2.24.0
 selenium==3.141.0
 six==1.15.0
 urllib3==1.25.9
+validators==0.15.0
 webdriver-manager==3.2.1
